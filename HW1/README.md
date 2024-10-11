@@ -7,6 +7,9 @@
 ## How to run the code
 
 1. Install Python 3.9
+```bash
+apt update && apt install -y python3 dnsutils
+```
 2. Run the following commands in the terminal
 ```bash
 python3 -m venv venv # optional
