@@ -9,8 +9,8 @@ Learning resources about ECE4016: Computer Networks, 2024 Fall @ CUHK-Shenzhen.
 ## Resources
 
 - [?/100] [HW1](./HW1/README.md): DNS query in Python.
-- [?/100] [HW2](./HW2/report.md): BOLA algorithm implementation. (streaming ABR)
-- [?/100] [HW3](./HW3/README.md): TCP congestion control in Python.
+- [90/100] [HW2](./HW2/report.md): BOLA algorithm implementation. (streaming ABR)
+- [?/100] [HW3](./HW3/README.md): Network test tools and network design simulation.
 - [?/100] [Final](./Final/ECE4016%20Computer%20Networks%20-%20CP.pdf): Final exam cheat sheet. This is incomplete, please check comments below.
 
 
